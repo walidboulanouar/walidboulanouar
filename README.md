@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **My personal Blog website**
 
 - 🌱 I’m currently learning **Blockchain( Ethereum, Solana and Polygon Networks)**
+- 👨🏻‍💻 I’m looking to build meaningful apps
+- 🙌🏼 2022 Goals: Learn and be able to scale with **Rust and Creating more complex contracts with Solidity**
 
 - 👨‍💻 All of my projects are available at [www.walidboulanouar.xyz](www.walidboulanouar.xyz)
 
