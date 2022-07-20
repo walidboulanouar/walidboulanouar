@@ -16,10 +16,10 @@
 
 - 💬 Ask me about **Next js, Node js, Python, Machine Learning**
 
-- 📫 How to reach me **walide726@gmail.com, aboulanouar726@gmail.com**
+- 📫 How to reach me **walide726@gmail.com, aboulanouar726@gmail.com, walid@big-bang.ae**
 
 - ⚡ Fun fact **I am searching for the fastes way to do things**
-
+big-bang.ae
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/walid-boulanouar-4a1515174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid-boulanouar-4a1515174" height="30" width="40" /></a>
