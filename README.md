@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Next js, Node js, Python, Machine Learning**
 
-- 📫 How to reach me **walide726@gmail.com, aboulanouar726@gmail.com, walid@big-bang.ae**
+- 📫 How to reach me **walide726@gmail.com, aboulanouar726@gmail.com, walid@big-bang.ae, walid@agencydev.studio**
 
 - ⚡ Fun fact **I am searching for the fastes way to do things**
 big-bang.ae
