@@ -13,7 +13,6 @@
 - 🙌🏼 2022 Goals: Learn and be able to scale with **Rust and Creating more complex contracts with Solidity**
 
 - 👨‍💻 All of my projects are available at [www.walidboulanouar.xyz](www.walidboulanouar.xyz)
-- ⚡💻 All of my projects are available at [https://my-second-portfolio.pages.dev/](https://my-second-portfolio.pages.dev/)
 
 - 💬 Ask me about **Next js, Node js, Python, Machine Learning**
 
