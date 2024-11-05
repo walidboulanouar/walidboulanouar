@@ -11,12 +11,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻**About Me**
 
-- 🔭 Currently building **My Personal Blog**
-- 🌱 Learning **Blockchain** (Ethereum, Solana, Polygon) and diving deeper into **Rust** and **Solidity** for complex smart contracts
-- 💡 2024 Goals: Launch impactful projects and scale my expertise with **Rust**  
-- 👨🏻‍💻 Always eager to build meaningful applications that solve real-world problems
+- 🔭 **Currently Working On**: Developing my personal blog to share insights on AI, automation, and LLMs.
+- 🌱 **Learning Focus**: Enhancing my expertise in **AI**, **Large Language Models (LLMs)**, and contributing to **n8n** for workflow automation.
+- 💡 **2024 Goals**: Build impactful AI-driven projects and continue contributing to open-source platforms, with a focus on workflow automations and integrations.
+- 👨🏻‍💻 **Passionate About**: Building applications that simplify workflows and solve real-world problems through intelligent automation and AI.
 
 ---
 
