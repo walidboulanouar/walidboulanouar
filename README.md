@@ -19,12 +19,17 @@
 
 ### ⚡ Things I've Built (And Still Ship)
 
-- **SaniChat**: Voice-powered AI agent for WhatsApp — handles calls, books meetings, answers FAQs.
+- **SaniChat**: First Chatgpt in whatsapp got 20000 users in one month and sold for 30k.( built in 15 days 2 years ago )
 - **Bevinzey**: AI-powered knowledge base tool for teams dealing with heavy documentation.
 - **Robotizia**: Automation framework that helped internal teams get +147% more productive.
+- **Lih.ai**: Gpt in Whatsapp for Indonessian people.
+- **seekgpt**: Automation framework that helped internal teams get +147% more productive.
 - **PromptHelper**: Workflow tool for prompt engineers (used internally by AI teams).
-- **+ Various tiny startups**: landing pages, AI microservices, internal platforms, and full-stack MVPs built in partnership with early-stage founders.
+- **+ Various tiny startups**: landing pages, AI microservices, internal platforms, and full-stack MVPs built in partnership with early-stage founders. ( working 
+- **ayautomate.com**: My AI automation agency.
+- **diezagency.com** : My old agency website...
 
+-Look i really have other projects that are in vercel with vercel domains and working on 2 SaaS right now....
 ---
 
 ### 🧩 How I Work
@@ -41,7 +46,6 @@
 - **Email**: walide726@gmail.com | walid@agencydev.studio  
 - **LinkedIn**: [linkedin.com/in/walidboulanouar](https://www.linkedin.com/in/walidboulanouar)  
 - **Twitter/X**: [@WalidBou07](https://x.com/WalidBou07)
-- **Portfolio**: [walidboulanouar.xyz](https://www.walidboulanouar.xyz)
 
 ---
 
