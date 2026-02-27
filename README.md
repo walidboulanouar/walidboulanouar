@@ -24,8 +24,9 @@ Not agencies. Not staff aug. Specialized engineering units built to operate at m
 - **AY Automate** — ayautomate.com
 - **Humanoidz.ai** — humanoidz.ai
 - **DontBuildThis** — dontbuildthis.com
-- **Wearview** — wearview.io
-- **BuilderBox** — builderbox.io
+- **ViralBraub** - viralbrain.ai
+- **Wearview** — wearview.co
+- **BuilderBox** — builderbox.ai
 - **NuggetFinder** — nuggetfinder.ai
 - Various MVPs and internal tools still running in production.
 
