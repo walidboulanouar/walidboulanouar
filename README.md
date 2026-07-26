@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="banner" />
+  <img src="assets/hero.png" width="100%" alt="hero" />
 </p>
 
 # Hi, I'm Walid 👋
 
 📍 **Paris · Dubai · Morocco** · 🤖 **Agent-native builder** · 🚀 **Co-founder, AY Automate & Humanoidz.ai**
 
-CTO by day, builder by night, hacker by mind. I ship products, automate workflows, and place AI engineers.
+CEO by day, sales calls in between, builder by night, hacker by mind. I ship products, automate workflows, and place AI engineers.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -109,7 +109,19 @@ Public repos across my personal account and the `liwala` / `ay-automate` orgs.
 - Writing internal playbooks on how a single engineer runs a fleet of Claude Code agents at once
 - Shipping fast: full products in days, not months
 
-## Contact
+<p align="center">
+  <img src="assets/fleet-desk.png" width="70%" alt="a desk, a lot of terminals, one empty chair" />
+</p>
+
+## Connect with me
+
+I'm active on LinkedIn, that's the best place to reach me for anything real: hiring, partnerships, or just talking shop on agents.
+
+<p align="left">
+  <a href="https://linkedin.com/in/walidboulanouar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/WalidBou07"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:walid@ayautomate.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 📧 walid@ayautomate.com
 🔗 [linkedin.com/in/walidboulanouar](https://linkedin.com/in/walidboulanouar)
