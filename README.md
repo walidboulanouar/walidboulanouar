@@ -45,36 +45,36 @@ These are shipped and running right now, not demos.
 ## Showcase
 
 <p align="left">
-  <a href="https://github.com/liwala/sheal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liwala&repo=sheal&theme=dark&hide_border=true" /></a>
-  <a href="https://github.com/walidboulanouar/Ay-Skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walidboulanouar&repo=Ay-Skills&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/liwala/sheal"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=liwala&repo=sheal&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/walidboulanouar/Ay-Skills"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=walidboulanouar&repo=Ay-Skills&theme=dark&hide_border=true" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/walidboulanouar/maestro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=walidboulanouar&repo=maestro&theme=dark&hide_border=true" /></a>
-  <a href="https://github.com/liwala/session-porter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liwala&repo=session-porter&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/walidboulanouar/maestro"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=walidboulanouar&repo=maestro&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/liwala/session-porter"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=liwala&repo=session-porter&theme=dark&hide_border=true" /></a>
 </p>
 <p align="left">
-  <a href="https://github.com/liwala/ay-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liwala&repo=ay-framework&theme=dark&hide_border=true" /></a>
-  <a href="https://github.com/liwala/sandshell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=liwala&repo=sandshell&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/liwala/ay-framework"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=liwala&repo=ay-framework&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/liwala/sandshell"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=liwala&repo=sandshell&theme=dark&hide_border=true" /></a>
 </p>
 
-## Open source (6+ stars)
+## Open source
 
-Every public repo across my personal account and the `liwala` / `ay-automate` orgs with at least 6 stars, most starred first.
+Public repos across my personal account and the `liwala` / `ay-automate` orgs.
 
-| Repo | Stars | What it is |
-|---|---|---|
-| [sheal](https://github.com/liwala/sheal) | 84★ | self-healing and self-learning loop for coding agents, [liwala.dev](https://liwala.dev) |
-| [Ay-Skills](https://github.com/walidboulanouar/Ay-Skills) | 82★ | open source Claude Code skills by AY Automate, [ayclaude.com](https://ayclaude.com) |
-| [maestro](https://github.com/walidboulanouar/maestro) | 50★ | open-source Fugu, the open-source LLM orchestration brain, [maestro.ayautomate.com](https://maestro.ayautomate.com) |
-| [session-porter](https://github.com/liwala/session-porter) | 37★ | move AI coding sessions between Claude Code and Codex CLI |
-| [ay-framework](https://github.com/liwala/ay-framework) | 27★ | agent swarm framework for Claude Code, plan, build, review, test, ship with human-in-the-loop gates |
-| [sandshell](https://github.com/liwala/sandshell) | 24★ | sandbox, guardrails, and audit across your coding agents |
-| [anti-ai-slop](https://github.com/walidboulanouar/anti-ai-slop) | 20★ | CLI to detect and remove AI-slop words and em dashes |
-| [n8n-claude-code-template](https://github.com/walidboulanouar/n8n-claude-code-template) | 19★ | Claude Code template for building n8n workflows, [ayn8n.com](https://ayn8n.com) |
-| [pin-guard](https://github.com/walidboulanouar/pin-guard) | 18★ | npm supply-chain defense, pins versions and scans for the postcss whitespace-injector RAT |
-| [define-done](https://github.com/walidboulanouar/define-done) | 9★ | Claude Code plugin, plan 3 binary outcomes per day, hard-stop at 5pm accountability tracker |
-| [loop-engineering](https://github.com/walidboulanouar/loop-engineering) | 6★ | run a fleet of Claude Code agents from one orchestrator with zero polling, [live demo](https://walidboulanouar.github.io/loop-engineering/) |
-| [ay-claude-templates](https://github.com/walidboulanouar/ay-claude-templates) | 6★ | CLI package manager for Claude Code skills, agents, commands, hooks, plugins, and MCPs, [ayclaude.com](https://ayclaude.com) |
+| Repo | What it is |
+|---|---|
+| [sheal](https://github.com/liwala/sheal) | self-healing and self-learning loop for coding agents, [liwala.dev](https://liwala.dev) |
+| [Ay-Skills](https://github.com/walidboulanouar/Ay-Skills) | open source Claude Code skills by AY Automate, [ayclaude.com](https://ayclaude.com) |
+| [maestro](https://github.com/walidboulanouar/maestro) | open-source Fugu, the open-source LLM orchestration brain, [maestro.ayautomate.com](https://maestro.ayautomate.com) |
+| [session-porter](https://github.com/liwala/session-porter) | move AI coding sessions between Claude Code and Codex CLI |
+| [ay-framework](https://github.com/liwala/ay-framework) | agent swarm framework for Claude Code, plan, build, review, test, ship with human-in-the-loop gates |
+| [sandshell](https://github.com/liwala/sandshell) | sandbox, guardrails, and audit across your coding agents |
+| [anti-ai-slop](https://github.com/walidboulanouar/anti-ai-slop) | CLI to detect and remove AI-slop words and em dashes |
+| [n8n-claude-code-template](https://github.com/walidboulanouar/n8n-claude-code-template) | Claude Code template for building n8n workflows, [ayn8n.com](https://ayn8n.com) |
+| [pin-guard](https://github.com/walidboulanouar/pin-guard) | npm supply-chain defense, pins versions and scans for the postcss whitespace-injector RAT |
+| [define-done](https://github.com/walidboulanouar/define-done) | Claude Code plugin, plan 3 binary outcomes per day, hard-stop at 5pm accountability tracker |
+| [loop-engineering](https://github.com/walidboulanouar/loop-engineering) | run a fleet of Claude Code agents from one orchestrator with zero polling, [live demo](https://walidboulanouar.github.io/loop-engineering/) |
+| [ay-claude-templates](https://github.com/walidboulanouar/ay-claude-templates) | CLI package manager for Claude Code skills, agents, commands, hooks, plugins, and MCPs, [ayclaude.com](https://ayclaude.com) |
 
 ## More agent tooling
 
@@ -93,11 +93,11 @@ Every public repo across my personal account and the `liwala` / `ay-automate` or
 ## GitHub activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=walidboulanouar&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=walidboulanouar&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=walidboulanouar&theme=dark&hide_border=true" height="165" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidboulanouar&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=walidboulanouar&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=walidboulanouar&color=blue&style=flat-square&label=Profile+views)
