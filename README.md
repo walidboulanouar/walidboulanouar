@@ -27,6 +27,7 @@ These are shipped and running right now, not demos.
 - 🍯 **[NuggetFinder](https://nuggetfinder.ai)** · shipped product, live
 - 📦 **[BuilderBox](https://builderbox.ai)** · shipped product, live
 - 🛑 **[DontBuildThis](https://dontbuildthis.com)** · shipped product, live
+- **[Aynet](https://aynet.ai)** · travel eSIM in one sentence, describe your trip and get one recommendation on a real network with one clear price, no contract
 - 🧬 **[ViralBrain](https://viralbrain.ai)** · shipped product, live
 - ⚙️ **[Liwala](https://liwala.dev)** · agent tooling studio, home of sheal, sandshell, and session-porter below
 - 🧠 **[Maestro](https://maestro.ayautomate.com)** · open-source LLM orchestration brain
@@ -36,6 +37,7 @@ These are shipped and running right now, not demos.
 
 ## Currently building
 
+- **[looot](https://looot.ai)** · one key for every data provider your agent needs, works inside Claude Code, Cursor and Codex. The price shows before each call and you pay only for what runs. In progress with the team.
 - 🏗️ **ay-builder** · an autonomous company operator (the Polsia category, executed with judgment). Rents the hands (browser, email, payments, deploy), builds the judgment layer on top (outcome ledger, taste gate, demand validation before build). Scaffolding the MVP right now: adapter layer, CEO and Seller loop, append-only ledger.
 - 🎯 **ay-leadengine** · lead generation and pipeline engine, monorepo foundation and Supabase schema going in this week
 - 📈 **ayscale-saas** · autopilot SEO growth engine (content, backlinks, rank tracking, and optimization in one product)
@@ -63,6 +65,8 @@ Public repos across my personal account and the `liwala` / `ay-automate` orgs.
 
 | Repo | What it is |
 |---|---|
+| [awesome-jev-use-cases](https://github.com/walidboulanouar/awesome-jev-use-cases) | open list of what people built with TypeSafe's Jev decision model: demos ranked by likes, 200+ repos, limits, cost and the data as CSV, with community pull requests |
+| [jevkit](https://github.com/walidboulanouar/jev-agent-kit) | CLI and MCP tools that give agents fast typed decisions on Jev (route, triage, guard, grep, rank, compact, judge), zero dependencies, `npx @walidboulanouar/jevkit` |
 | [sheal](https://github.com/liwala/sheal) | self-healing and self-learning loop for coding agents, [liwala.dev](https://liwala.dev) |
 | [Ay-Skills](https://github.com/walidboulanouar/Ay-Skills) | open source Claude Code skills by AY Automate, [ayclaude.com](https://ayclaude.com) |
 | [maestro](https://github.com/walidboulanouar/maestro) | open-source Fugu, the open-source LLM orchestration brain, [maestro.ayautomate.com](https://maestro.ayautomate.com) |
@@ -107,6 +111,7 @@ Public repos across my personal account and the `liwala` / `ay-automate` orgs.
 - Running AY Automate: embedding AI-native engineers inside client product teams
 - Running Humanoidz.ai: building and operating companies with agent swarms instead of headcount
 - Writing internal playbooks on how a single engineer runs a fleet of Claude Code agents at once
+- Mapping what people build on fast decision models (Jev) and publishing the tools and data in the open
 - Shipping fast: full products in days, not months
 
 <p align="center">
